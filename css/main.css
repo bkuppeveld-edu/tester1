@@ -1,0 +1,82 @@
+
+header{
+  height: 120px;
+  width: 100%;
+  background-color:gray;
+  float: left;
+
+}
+.contact{
+  height: 70px;
+  width: 100%;
+  background-color: black;
+  float: left;
+}
+.social{
+  width: 500px;
+  height: 100%;
+  float: left;
+}
+.social img{
+  padding: 10px;
+}
+.email{
+  width: 100px;
+  height: 100%;
+  margin-right: 150px;
+  float: right;
+}
+.email p{
+  color: white;
+  padding: 10px;
+  margin-right: 50px;
+}
+nav ul{
+  list-style: none;
+}
+nav ul li a{
+  text-decoration: none;
+  color: red;
+  float: left;
+  padding: 10px;
+}
+
+main{
+  background-color: lightgray;
+  width: 100%;
+  height: 1000px;
+  float: left;
+}
+footer{
+  float: left;
+  background-color: black;
+  color: white;
+  height: 200px;
+  width: 100%;
+}
+.column-l{
+  width: 400px;
+  height: 100%;
+  float: left;
+  background-color: white;
+}
+.column-l ul{
+  list-style: none;
+}
+.column-l ul li a{
+  text-decoration: none;
+  color: red;
+  padding: 10px;
+}
+.column-l input{
+  float:left;
+  height: 30px;
+  width: 70%;
+  margin: 10px;
+}
+.column-l button{
+  float:left;
+  height: 30px;
+  width: 70%;
+  margin: 10px;
+}
